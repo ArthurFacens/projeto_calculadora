@@ -1,1 +1,1 @@
-![Teste Refatorado]("Capturadetela2025-11-28210755.png")
+![Teste Refatorado](TesteRefatorado.png)
